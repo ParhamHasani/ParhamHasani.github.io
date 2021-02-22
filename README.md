@@ -1,6 +1,6 @@
 <img src="https://i.pinimg.com/originals/bc/b3/02/bcb302b88b0850b4f1f617007b45e518.jpg">
 
-<body style="background-color:powderblue;">
+<body style="background-color:blue;">
 
 <h1>wellcome to my Programming projects collection</h1>
 <p>
