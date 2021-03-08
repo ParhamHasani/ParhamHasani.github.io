@@ -1,15 +1,12 @@
-<html>
-<head>
 <style>
 div {
-  background-color: lightgrey;
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
+  div {
+  width: 320px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
 }
 </style>
-</head>
 
 <body>
   
@@ -23,4 +20,4 @@ here I collect my projects:)</p>
 <div>Project1</div>
 
 </body>
-</html>
+
