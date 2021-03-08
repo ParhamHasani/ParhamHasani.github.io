@@ -14,7 +14,6 @@ div {
   margin: 20px;
 }
 </style>
-</head>
 <body>
 
 <h2>Demonstrating the Box Model</h2>
