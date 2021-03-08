@@ -1,21 +1,6 @@
-<html>
-<head>
-<style>
-div {
-  width: 100px;
-  padding: 30px;
-  border: 5px solid gray;
-  margin: 0;
-}
-</style>
-</head>
-<body>
-
-<h2>Calculate the total width parham:</h2>
-
-<img src="klematis4_big.jpg" width="350" height="263" alt="Klematis">
-<div>The picture above is 350px wide. The total width of this element is also 350px.</div>
-
-</body>
-</html>
-
+<h1>wellcome to my Programming projects collection</h1>
+<p>
+I’m Parham Hasani
+A Master’s student in Artificial intelligence. Besides AI and its methods such as machine learning, Data mining and Deep learning I’m learning Neuroscience to helping Alzheimer’s patients. 
+here I collect my projects:)</p>
+<img src="https://i.pinimg.com/originals/bc/b3/02/bcb302b88b0850b4f1f617007b45e518.jpg">
