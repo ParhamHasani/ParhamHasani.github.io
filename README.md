@@ -1,3 +1,4 @@
+<html>
 <head>
 <style>
 div {
@@ -22,3 +23,4 @@ here I collect my projects:)</p>
 <div>Project</div>
 
 </body>
+</html>
