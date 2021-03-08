@@ -20,7 +20,7 @@ A Master’s student in Artificial intelligence. Besides AI and its methods such
 here I collect my projects:)</p>
 <img src="https://i.pinimg.com/originals/bc/b3/02/bcb302b88b0850b4f1f617007b45e518.jpg">
 
-<div>Project</div>
+<div>Project1</div>
 
 </body>
 </html>
