@@ -2,7 +2,7 @@
 <head>
 <style>
 div {
-  width: 320px;
+  width: 100px;
   padding: 10px;
   border: 5px solid gray;
   margin: 0;
