@@ -3,7 +3,7 @@
 <style>
 div {
   width: 100px;
-  padding: 10px;
+  padding: 30px;
   border: 5px solid gray;
   margin: 0;
 }
