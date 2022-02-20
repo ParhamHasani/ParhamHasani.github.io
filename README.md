@@ -1,6 +1,6 @@
-<h1>wellcome to my Programming projects collection</h1>
+<h2>wellcome to Fun with Code!</h2>
 <p>
-I’m Parham Hasani
-A Master’s student in Artificial intelligence. Besides AI and its methods such as machine learning, Data mining and Deep learning I’m learning Neuroscience to helping Alzheimer’s patients. 
-here I collect my projects:)</p>
+I am studying for a Masters of Science in AI and am a neuroscience enthusiast. Also, I earned a bachelor’s degree in computer science from the University of Tabriz. My teaching experience includes being an assistant in university-level courses in computer science and mathematics.
+My focus is on machine learning applications in neuroscience. Specifically, this involves deep learning approaches in the diagnosis and prediction of neurodegenerative disorder symptoms by using magnetic resonance imaging.
+:)</p>
 <img src="https://i.pinimg.com/originals/bc/b3/02/bcb302b88b0850b4f1f617007b45e518.jpg">
