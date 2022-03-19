@@ -1,4 +1,4 @@
-<h2>wellcome to Fun with Code!</h2>
+<h2>Wellcome to Fun with Code!</h2>
 <p>
 I am studying for a Masters of Science in AI and am a neuroscience enthusiast. Also, I earned a bachelor’s degree in computer science from the University of Tabriz. My teaching experience includes being an assistant in university-level courses in computer science and mathematics.
 My focus is on machine learning applications in neuroscience. Specifically, this involves deep learning approaches in the diagnosis and prediction of neurodegenerative disorder symptoms by using magnetic resonance imaging. 
