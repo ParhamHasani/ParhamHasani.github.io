@@ -5,6 +5,10 @@ My focus is on machine learning applications in neuroscience. Specifically, this
 <a href="https://github.com/ParhamHasani/ParhamHasani.github.io/raw/main/Parham%20Hasani-CV-edited%20Feb%2016%202022.pdf">My CV</a>
 </p>
 <img src="https://i.pinimg.com/originals/bc/b3/02/bcb302b88b0850b4f1f617007b45e518.jpg">
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 .button {
   border: none;
   color: white;
@@ -26,3 +30,7 @@ My focus is on machine learning applications in neuroscience. Specifically, this
 
 <button class="button button1">Green</button>
 <button class="button button2">Blue</button>
+
+</body>
+</html>
+
