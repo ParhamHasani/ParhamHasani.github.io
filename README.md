@@ -7,22 +7,6 @@ My focus is on machine learning applications in neuroscience. Specifically, this
 
 <img src="https://i.pinimg.com/originals/bc/b3/02/bcb302b88b0850b4f1f617007b45e518.jpg">
 
-<form action="">
-    <input type="submit" value="" />
-</form>
-
-<form action="">
-    <input type="submit" value=""/>
-</form>
-
-<form action="">
-    <input type="submit" value="AI with Parham">
-</form>
-
-<form action="">
-    <input type="submit" value="Blog"/>
-</form>
-
 Other Websites:
 <a href="https://parhamhasani.wixsite.com/aboutme" class="button">Personal Website,</a>
 <a href="https://sites.google.com/view/neuroai" class="button">NeuroAI,</a>
