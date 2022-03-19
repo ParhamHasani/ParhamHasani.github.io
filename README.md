@@ -6,29 +6,18 @@ My focus is on machine learning applications in neuroscience. Specifically, this
 </p>
 
 <img src="https://i.pinimg.com/originals/bc/b3/02/bcb302b88b0850b4f1f617007b45e518.jpg">
-<html>
-<head>
-<style>
-.button {
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-}
+<form action="https://parhamhasani.wixsite.com/aboutme">
+    <input type="submit" value="Personal Website" />
+</form>
 
-.button1 {background-color: #4CAF50;} /* Green */
-.button2 {background-color: #008CBA;} /* Blue */
-</style>
-</head>
-<body>
+<form action="https://sites.google.com/view/neuroai">
+    <input type="submit" value="NeuroAI" />
+</form>
 
+<form action="https://parhamhasani.wordpress.com/">
+    <input type="submit" value="AI with Parham" />
+</form>
 
-<button class="button button1">Green</button>
-<button class="button button2">Blue</button>
-
-
+<form action="https://parhamnotes.blogspot.com/">
+    <input type="submit" value="Blog" />
+</form>
