@@ -11,13 +11,13 @@ My focus is on machine learning applications in neuroscience. Specifically, this
 </form>
 
 <form action="https://sites.google.com/view/neuroai">
-    <input type="submit" value="NeuroAI" />
+    <input type="submit" value="NeuroAI"/>
 </form>
 
 <form action="https://parhamhasani.wordpress.com/">
-    <input type="submit" value="AI with Parham" />
+    <input type="submit" value="AI with Parham">
 </form>
 
 <form action="https://parhamnotes.blogspot.com/">
-    <input type="submit" value="Blog" />
+    <input type="submit" value="Blog"/>
 </form>
