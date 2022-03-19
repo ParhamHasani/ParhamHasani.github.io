@@ -6,20 +6,24 @@ My focus is on machine learning applications in neuroscience. Specifically, this
 </p>
 
 <img src="https://i.pinimg.com/originals/bc/b3/02/bcb302b88b0850b4f1f617007b45e518.jpg">
-<form action="https://parhamhasani.wixsite.com/aboutme">
-    <input type="submit" value="Personal Website" />
+
+<form action="">
+    <input type="submit" value="" />
 </form>
 
-<form action="https://sites.google.com/view/neuroai">
-    <input type="submit" value="NeuroAI"/>
+<form action="">
+    <input type="submit" value=""/>
 </form>
 
-<form action="https://parhamhasani.wordpress.com/">
+<form action="">
     <input type="submit" value="AI with Parham">
 </form>
 
-<form action="https://parhamnotes.blogspot.com/">
+<form action="">
     <input type="submit" value="Blog"/>
 </form>
 
-<a href="https://google.com" class="button">Go to Google</a>
+<a href="https://parhamhasani.wixsite.com/aboutme" class="button">Personal Website</a>
+<a href="https://sites.google.com/view/neuroai" class="button">NeuroAI</a>
+<a href="https://parhamhasani.wordpress.com/" class="button">AI with Parham</a>
+<a href="https://parhamnotes.blogspot.com/" class="button">Blog</a>
