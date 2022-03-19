@@ -21,3 +21,5 @@ My focus is on machine learning applications in neuroscience. Specifically, this
 <form action="https://parhamnotes.blogspot.com/">
     <input type="submit" value="Blog"/>
 </form>
+
+<a href="https://google.com" class="button">Go to Google</a>
